@@ -4,7 +4,8 @@
 
 
 ### Hi there 👋
-Greetings of the Day! Thanks for stopping by. My name is Harvinder Shah. I am a full stack developer with a passion for learning new things. Please feel free to look around and reach out to me if anything piques your interest. And if you would like to connect with me, you can reach me here on [LinkedIn](https://www.linkedin.com/in/harryshah100)
+Greetings of the Day! Thanks for stopping by. My name is Harvinder Shah. I am a full stack developer with a passion for learning new things. Please feel free to look around and reach out to me if anything piques your interest. And if you would like to connect with me, you can reach me here on [Linkedin-logo-1-550x550-300x300](https://user-images.githubusercontent.com/38383388/144517159-14620074-4282-4766-9f2c-f222f14571ff.png)(https://www.linkedin.com/in/harryshah100)
+
 <!--
 **harry-100/harry-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
