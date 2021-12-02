@@ -1,9 +1,10 @@
+![Screen Shot 2021-12-02 at 5 46 00 PM](https://user-images.githubusercontent.com/38383388/144515839-163c6425-1c6e-4c97-a652-9ebc2c9b7b09.png)
 
-<img width="1211" alt="Screen Shot 2021-12-02 at 5 46 00 PM" src="https://user-images.githubusercontent.com/38383388/144515259-ba29e9ac-6634-4286-bd4d-9f48f31e8f1c.png">
+
 
 
 ### Hi there 👋
-
+Greetings of the Day! Thanks for stopping by. My name is Harvinder Shah amd I am a full stack developer looking to connect with 
 <!--
 **harry-100/harry-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
