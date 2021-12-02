@@ -6,6 +6,10 @@
 ### Hi there 👋
 Greetings of the Day! Thanks for stopping by. My name is Harvinder Shah. I am a full stack developer with a passion for learning new things. Please feel free to look around and reach out to me if anything piques your interest. And if you would like to connect with me, you can reach me here on [LinkedIn](https://www.linkedin.com/in/harryshah100)
 
+TECH STACK
+
+
+
 <!--
 **harry-100/harry-100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
