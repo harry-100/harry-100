@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/38383388/144515839-163c6425-1c6e-4c97-a652-9ebc2c9b7b09.png" style="width:100%;">
+<img src="./images/top-image.png" style="width:100%;">
 
 
 
@@ -6,12 +6,28 @@
 ### Hi there 👋
 Greetings of the Day! Thanks for stopping by. My name is Harvinder Shah. I am a full stack developer with a passion for learning new things. Please feel free to look around and reach out to me if anything piques your interest. And if you would like to connect with me, you can reach me here on [LinkedIn](https://www.linkedin.com/in/harryshah100)
 
-![image](https://user-images.githubusercontent.com/38383388/144524844-910cf242-776c-4fc5-a9e0-280e78d3b9ef.png)
+<p align="left">
+    <img src="./menu-categories/learned-technologies.png" alt="learned-technologies" style="height: 50px; padding: 30px 0 0 0"/>
+</p>
 
 
 <div style="padding-top: 5px">
-    <img src="https://user-images.githubusercontent.com/38383388/144525352-5fdae937-dfef-4671-a0fa-e955cce2b032.png" width=58 height=32>
-    <img src="https://user-images.githubusercontent.com/38383388/144525473-f6f12831-ed67-4a9a-a536-adc0eedc344d.png" width=58 height=32>
+    <img src="./technologies/javascript.png" height=25>
+    <img src="./technologies/bootstrap.png"  height=25>
+    <img src="./technologies/css.png" height=25>
+    <img src="./technologies/expressjs.png" height=25>
+    <img src="./technologies/git.png" height=25>
+    <img src="./technologies/html.png" height=25>
+    <img src="./technologies/mongodb.png" height=25>
+    <img src="./technologies/mongoose.png" height=25>
+    <img src="./technologies/mysql.png" height=25>
+    <img src="./technologies/reactjs.png" height=25>
+    <img src="./technologies/sequelize.png" height=25>
+    <img src="./technologies/jquery.png" height=25>
+    <img src="./technologies/python.png" height=25>
+    <img src="./technologies/nosql.png" height=25>
+    <img src="./technologies/nodejs.png" height=25>
+
 </div>
 
 
