@@ -1,4 +1,4 @@
-![Screen Shot 2021-12-02 at 5 46 00 PM](https://user-images.githubusercontent.com/38383388/144515839-163c6425-1c6e-4c97-a652-9ebc2c9b7b09.png)
+<img src="https://user-images.githubusercontent.com/38383388/144515839-163c6425-1c6e-4c97-a652-9ebc2c9b7b09.png" style="width:100%;">
 
 
 
