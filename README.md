@@ -9,13 +9,10 @@ Greetings of the Day! Thanks for stopping by. My name is Harvinder Shah. I am a 
 ![image](https://user-images.githubusercontent.com/38383388/144524844-910cf242-776c-4fc5-a9e0-280e78d3b9ef.png)
 
 
-<table>
-  
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/38383388/144525352-5fdae937-dfef-4671-a0fa-e955cce2b032.png" width=58 height=32></td>
-    <td><img src="https://user-images.githubusercontent.com/38383388/144525473-f6f12831-ed67-4a9a-a536-adc0eedc344d.png" width=58 height=32></td>
-  </tr>
- </table>
+<div style="padding-top: 5px">
+    <img src="https://user-images.githubusercontent.com/38383388/144525352-5fdae937-dfef-4671-a0fa-e955cce2b032.png" width=58 height=32>
+    <img src="https://user-images.githubusercontent.com/38383388/144525473-f6f12831-ed67-4a9a-a536-adc0eedc344d.png" width=58 height=32>
+</div>
 
 
 
