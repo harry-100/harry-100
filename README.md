@@ -4,7 +4,7 @@
 
 
 ### Hi there 👋
-Greetings of the Day! Thanks for stopping by. My name is Harvinder Shah. I am a full stack developer with a passion for learning new things. Please feel free to look around and reach out to me if anything piques your interest. And if you would like to connect with me, you can reach me here on [LinkedIn](https://www.linkedin.com/in/harryshah100)
+Greetings of the Day! Thanks for stopping by. My name is Harvinder Shah. I am a QA Automation Engineer/ QA Tester with a passion for learning new things. Please feel free to look around and reach out to me if anything piques your interest. And if you would like to connect with me, you can reach me here on [LinkedIn](https://www.linkedin.com/in/harryshah100)
 
 <p align="left">
     <img src="./menu-categories/learned-technologies.png" alt="learned-technologies" style="height: 50px; padding: 30px 0 0 0"/>
